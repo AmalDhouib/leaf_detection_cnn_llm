@@ -6,11 +6,20 @@ Ce projet s’appuie sur des techniques de Deep Learning et une interface conviv
 
 ---
 
-## 🎥 Démo vidéo
+## 🖼️ Aperçu de l’application
 
-Voici un aperçu rapide de l'application Flora Scan :
+- **Page d’accueil**  
+  ![Accueil](./assets/1.png)
 
-![Démo Flora Scan](./assets/flora_scan_demo.gif)
+- **Analyse d’image et détection de maladie**  
+  ![Analyse](./assets/2.png)
+
+- **Résultat avec diagnostic et recommandations**  
+  ![Résultat](./assets/3.png)
+  
+- **Historique de conversation**
+  ![Historique](./assets/4.png)
+
 
 
 ## 🌱 Objectifs
